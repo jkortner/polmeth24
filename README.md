@@ -1,2 +1,3 @@
-# polmeth24
-Inequality-Averse Outcome-Based Matching
+## polmeth24
+
+![](poster/polmeth_24_inequality.png?raw=true)
